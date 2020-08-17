@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RevisedLoginSignup/static/css/main.df45f16d.chunk.css",
-    "main.js": "/RevisedLoginSignup/static/js/main.9e3f5115.chunk.js",
-    "main.js.map": "/RevisedLoginSignup/static/js/main.9e3f5115.chunk.js.map",
+    "main.css": "/RevisedLoginSignup/static/css/main.554b956e.chunk.css",
+    "main.js": "/RevisedLoginSignup/static/js/main.3a4a6b58.chunk.js",
+    "main.js.map": "/RevisedLoginSignup/static/js/main.3a4a6b58.chunk.js.map",
     "runtime-main.js": "/RevisedLoginSignup/static/js/runtime-main.5829caa9.js",
     "runtime-main.js.map": "/RevisedLoginSignup/static/js/runtime-main.5829caa9.js.map",
     "static/js/2.7d33e18c.chunk.js": "/RevisedLoginSignup/static/js/2.7d33e18c.chunk.js",
     "static/js/2.7d33e18c.chunk.js.map": "/RevisedLoginSignup/static/js/2.7d33e18c.chunk.js.map",
     "index.html": "/RevisedLoginSignup/index.html",
-    "precache-manifest.616294fe847a114bcc0d8700d749707b.js": "/RevisedLoginSignup/precache-manifest.616294fe847a114bcc0d8700d749707b.js",
+    "precache-manifest.ffce4a27eccb8e193234cc563104425d.js": "/RevisedLoginSignup/precache-manifest.ffce4a27eccb8e193234cc563104425d.js",
     "service-worker.js": "/RevisedLoginSignup/service-worker.js",
-    "static/css/main.df45f16d.chunk.css.map": "/RevisedLoginSignup/static/css/main.df45f16d.chunk.css.map",
+    "static/css/main.554b956e.chunk.css.map": "/RevisedLoginSignup/static/css/main.554b956e.chunk.css.map",
     "static/js/2.7d33e18c.chunk.js.LICENSE.txt": "/RevisedLoginSignup/static/js/2.7d33e18c.chunk.js.LICENSE.txt",
     "static/media/LoginSignup.css": "/RevisedLoginSignup/static/media/Signupbackground.75c51b3e.png",
     "static/media/Facebook.png": "/RevisedLoginSignup/static/media/Facebook.4addc00a.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.5829caa9.js",
     "static/js/2.7d33e18c.chunk.js",
-    "static/css/main.df45f16d.chunk.css",
-    "static/js/main.9e3f5115.chunk.js"
+    "static/css/main.554b956e.chunk.css",
+    "static/js/main.3a4a6b58.chunk.js"
   ]
 }
