@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/RevisedLoginSignup/static/css/main.df45f16d.chunk.css",
+    "main.js": "/RevisedLoginSignup/static/js/main.9e3f5115.chunk.js",
+    "main.js.map": "/RevisedLoginSignup/static/js/main.9e3f5115.chunk.js.map",
+    "runtime-main.js": "/RevisedLoginSignup/static/js/runtime-main.5829caa9.js",
+    "runtime-main.js.map": "/RevisedLoginSignup/static/js/runtime-main.5829caa9.js.map",
+    "static/js/2.7d33e18c.chunk.js": "/RevisedLoginSignup/static/js/2.7d33e18c.chunk.js",
+    "static/js/2.7d33e18c.chunk.js.map": "/RevisedLoginSignup/static/js/2.7d33e18c.chunk.js.map",
+    "index.html": "/RevisedLoginSignup/index.html",
+    "precache-manifest.616294fe847a114bcc0d8700d749707b.js": "/RevisedLoginSignup/precache-manifest.616294fe847a114bcc0d8700d749707b.js",
+    "service-worker.js": "/RevisedLoginSignup/service-worker.js",
+    "static/css/main.df45f16d.chunk.css.map": "/RevisedLoginSignup/static/css/main.df45f16d.chunk.css.map",
+    "static/js/2.7d33e18c.chunk.js.LICENSE.txt": "/RevisedLoginSignup/static/js/2.7d33e18c.chunk.js.LICENSE.txt",
+    "static/media/LoginSignup.css": "/RevisedLoginSignup/static/media/Signupbackground.75c51b3e.png",
+    "static/media/Facebook.png": "/RevisedLoginSignup/static/media/Facebook.4addc00a.png",
+    "static/media/Google.png": "/RevisedLoginSignup/static/media/Google.e50b88a7.png",
+    "static/media/Googlewhite.png": "/RevisedLoginSignup/static/media/Googlewhite.948c8377.png",
+    "static/media/appstore.png": "/RevisedLoginSignup/static/media/appstore.fb1cfbae.png",
+    "static/media/fbwhite.png": "/RevisedLoginSignup/static/media/fbwhite.223a06a5.png",
+    "static/media/googleplay.png": "/RevisedLoginSignup/static/media/googleplay.986c8fb7.png",
+    "static/media/illustration.png": "/RevisedLoginSignup/static/media/illustration.ddb13ccd.png",
+    "static/media/illustration2.png": "/RevisedLoginSignup/static/media/illustration2.68e51e59.png",
+    "static/media/illustration3.png": "/RevisedLoginSignup/static/media/illustration3.ae492379.png",
+    "static/media/logo.png": "/RevisedLoginSignup/static/media/logo.c68547da.png",
+    "static/media/logo1.png": "/RevisedLoginSignup/static/media/logo1.0e6c8213.png",
+    "static/media/welcome.png": "/RevisedLoginSignup/static/media/welcome.414e6e49.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5829caa9.js",
+    "static/js/2.7d33e18c.chunk.js",
+    "static/css/main.df45f16d.chunk.css",
+    "static/js/main.9e3f5115.chunk.js"
+  ]
+}
