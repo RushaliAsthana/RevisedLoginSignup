@@ -79,10 +79,7 @@
     margin-top: 10%;
     font-size: 50px;
    }
-   #loginheader{
-    margin-bottom: 10%;
-    
-}
+   
 
 #apps img {
  margin-right: 10px;
@@ -265,7 +262,7 @@
 #signupheader {
     margin-top: 15%;
     font-size: 30px;
-    
+    /* margin-bottom: 2%; */
 }
 #unameicon{
  position: relative;
@@ -276,7 +273,7 @@
 
 #pwdicon{
  position: relative;
- top:110px;
+ top:120px;
  right:55%;
 z-index: 1000;
 }
@@ -304,7 +301,14 @@ z-index: 1000;
      #conn{
          font-size: 2vw;
      }
-     
+     #formcontainer{
+        margin-top: -20px;
+       }
+       #pwdicon{
+        position: relative;
+        top:100px;
+        
+       }
  }
 
  
@@ -314,11 +318,11 @@ z-index: 1000;
     }
    
   #formcontainer{
-   margin-top: -20px;
+   margin-top: -50px;
   }
   #pwdicon{
    position: relative;
-   top:120px;
+   top:70px;
    right:60%;
    z-index: 1000;
   }
@@ -340,7 +344,7 @@ z-index: 1000;
 #signupheader {
     margin-top: 20%;
     font-size: 35px;
-    margin-bottom: 20%;
+    margin-bottom: 12%;
 }
 #carousel-example-1z img {
  height: 200px;
@@ -360,13 +364,11 @@ z-index: 1000;
     #logologin{
         height: 50px;
     }
-  #formcontainer{
-   margin-top: -50px;
-  }
+  
   #loginheader,
   #signupheader {
       font-size: 35px;
-      margin-bottom: 25%;
+      margin-bottom: 12%;
       margin-top: 20%;
   }
   #carousel-example-1z img {

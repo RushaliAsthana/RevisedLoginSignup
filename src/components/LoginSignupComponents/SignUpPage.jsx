@@ -58,12 +58,11 @@ function Form()
          return <div className="container-fluid text-center"  id="SIGNUP-PAGE">
          <div className="row justify-content-center " id="tophead">
            <h1 id="signupheader" className="white">Sign Up</h1>
-           <br/><br/><br/>
           
            </div>
-           <i data-toggle="tooltip" id="pwdicon" title="See Password" onClick={togPwd} className={seen?"fa fa-lock fa-lg white":"fa fa-unlock fa-lg white"} ></i>
+           <i data-toggle="tooltip" id="pwdicon" title="See Password" onClick={togPwd} className={seen?"fa fa-lock fa-2x white":"fa fa-unlock fa-2x white"} ></i>
            <form id="formcontainer">
-           {!checkPwds? <span id="pwdnotsame" className="badge badge-danger">Passwords are not same!</span>:null}<br/>
+           {!checkPwds? <span id="pwdnotsame" className="badge badge-danger">Passwords are not same!</span>:null}
             <div className="row">
             <div className="col-sm-10 offset-1" id="inp1white">
             <i id="unameicon" className="fa fa-envelope-o fa-lg white"></i>

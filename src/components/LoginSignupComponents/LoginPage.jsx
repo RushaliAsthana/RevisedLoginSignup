@@ -47,7 +47,7 @@ function Form()
          <div className="row justify-content-center" id="tophead">
            <h1 id="loginheader">Login</h1> 
            </div>
-           <i data-toggle="tooltip" id="pwdicon" title="See Password" onClick={togPwd} className={seen?"fa fa-lock fa-lg":"fa fa-unlock fa-lg "} ></i>
+           <i data-toggle="tooltip" id="pwdicon" title="See Password" onClick={togPwd} className={seen?"fa fa-lock fa-2x":"fa fa-unlock fa-2x "} ></i>
            <form id="formcontainer">
             <div className="row">
             <div className="col-sm-10 offset-1" id="inp1">
